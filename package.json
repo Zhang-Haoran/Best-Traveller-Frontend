@@ -1,6 +1,7 @@
 {
   "name": "project3-traveler",
   "version": "0.1.0",
+  "homepage": " ",
   "private": true,
   "proxy": "http://haoran-backend.tk:8000/public",
   "dependencies": {
