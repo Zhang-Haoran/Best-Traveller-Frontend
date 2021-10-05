@@ -1,5 +1,5 @@
 module.exports = {
   api: {
-    backend_api: "http://localhost:8000",
+    backend_api: "http://haoran-backend.tk:8000",
   },
 }
